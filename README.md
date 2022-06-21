@@ -17,7 +17,7 @@
   * npm build - compile app
   
   # Backend 
-  * Backend (server) repository is located at: https://github.com/vikkruk/my-project-backend
+  * Backend (server) repository is located at: https://github.com/avagnoris/augustinas-vagnoris-server 
 
 ## Backend system requirements
   * Node.js
